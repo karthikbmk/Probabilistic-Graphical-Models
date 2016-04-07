@@ -1,2 +1,2 @@
 # Probabilistic-Graphical-Models  
-This Repo contains CS583 - PGM stuffs.
+CS583 Assignments/Projects taught by Dr. Mustafa Bilgic at IIT
