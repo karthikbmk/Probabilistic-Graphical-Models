@@ -1,0 +1,1 @@
+Inference in Linear Chain Bayesian Network
