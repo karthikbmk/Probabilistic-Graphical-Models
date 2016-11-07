@@ -1,2 +1,2 @@
-# Bayesian Modeling + Inference for Credit Rating (Coursera PA 1)
+### Bayesian Modeling and Inference for Credit Rating of person (Coursera PA 1)
 
